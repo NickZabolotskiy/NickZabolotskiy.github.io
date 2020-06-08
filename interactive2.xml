@@ -1,0 +1,17 @@
+<VAST version="2.0">
+    <Ad>
+        <InLine>
+            <Creatives>
+                <Creative>
+                    <Linear>                     
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="application/javascript" apiFramework="VPAID">
+                                <![CDATA[ https://ferretvideo.com/vpaid/IASVideo.js?anId=926602&campId=GRP_1117_VIDEOADEX_CPM_DESK_TEST-NEWPLAYER&chanId=cuisine.notrefamille.com&placementId=0118-CNF-DESK-SMART&pubOrder=Videoadex&pubCreative=smart&custom=5&custom2=Videoadex&IAS_VID_OPTS=hidecountdown&originalVast=https%3A%2F%2Fads.adfox.ru%2F238697%2FgetCode%3Fp1%3Dckwwb%26p2%3Dfdxq%26pfc%3Dczmda%26pfb%3Diczlf%26pr%3D%2525random%2525]]>
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+</VAST>
